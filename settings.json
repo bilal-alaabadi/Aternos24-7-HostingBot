@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "Bilalalailalal.aternos.me:37505",
+    "ip": "Bilalalailalal.aternos.me",
     "port": 37505,
-    "version": "1.20.1",
+    "version": "1.20.4",
     "try-creative": false
   },
   "position": {
